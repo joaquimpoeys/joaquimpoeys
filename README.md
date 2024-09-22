@@ -9,11 +9,11 @@
 ------------------------------------------------------------------
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaquimpoeys&show_icons=true&count_private=true&hide_border=true&title_color=8a2be2&icon_color=8a2be2&text_color=c9d1d9&bg_color=0d1117" alt="joaquimpoeys github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquimpoeys&layout=compact&hide_border=true&title_color=8a2be2&text_color=8a2be2&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaquimpoeys&show_icons=true&count_private=true&hide_border=true&title_color=6a0dad&icon_color=6a0dad&text_color=c9d1d9&bg_color=0d1117" alt="joaquimpoeys github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquimpoeys&layout=compact&hide_border=true&title_color=6a0dad&text_color=6a0dad&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaquimpoeys&bg_color=0d1117&color=8a2be2&line=8a2be2&point=8a2be2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaquimpoeys&bg_color=0d1117&color=6a0dad&line=6a0dad&point=8a2be2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"> 
 <a href="mailto:poeysjoaquimcd@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
